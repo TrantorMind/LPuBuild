@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: BLog
+title: BLOG
 date: 
 page_sections:
 - template: navigation-header
