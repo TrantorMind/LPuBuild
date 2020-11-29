@@ -33,6 +33,7 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: ''
+  background_color: "#D0021B"
 - template: content-feature
   block: feature-1
   media_alignment: Left
