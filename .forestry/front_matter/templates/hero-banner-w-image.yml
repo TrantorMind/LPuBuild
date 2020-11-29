@@ -10,6 +10,13 @@ fields:
 - type: file
   name: background_image
   label: Background Image
+- name: background_color
+  type: color
+  config:
+    required: false
+    color_format: Hex
+  label: Background_color
+  default: "#F5A623"
 - type: field_group
   name: image
   label: Image
