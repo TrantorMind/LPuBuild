@@ -28,8 +28,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://feel.guryou.com
+    button_text: Open later
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
