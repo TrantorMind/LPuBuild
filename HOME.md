@@ -24,10 +24,10 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: ''
+    image: "/uploads/2020/11/29/picture1.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2018/06/21/product-shot-1.png"
     caption: ''
 - template: simple-footer
   block: footer-1
