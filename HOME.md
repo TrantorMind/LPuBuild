@@ -16,9 +16,6 @@ page_sections:
   content: CLICK HERE
   email_recipient: francesco@guryou.com
   background_color: "#D71919"
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Italy
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -32,6 +29,9 @@ page_sections:
   block: text-1
   headline: TANTA ROBA
   content: "<p>TANTA</p>"
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Italy
 menu:
   main:
     identifier: home
