@@ -18,7 +18,7 @@ page_sections:
   background_color: "#D71919"
 - template: full-width-media-element
   block: media-1
-  slug: ''
+  slug: SCOPRI come stimare i costi per sviluppare e lanciare la tua app nel wellness.
   image: "/uploads/2020/11/29/picture1.png"
   caption: ''
 - template: 2-column-media-element
