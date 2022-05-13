@@ -10,5 +10,10 @@ page_sections:
     button_text: REGISTRATI
     url: ''
   navigation: []
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
