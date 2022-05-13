@@ -31,7 +31,7 @@ page_sections:
   background_color: "#D71919"
 - template: simple-footer
   block: footer-1
-  content: Made with LOVE by TrantorMind
+  content: Made with ❤︎ in Italy
 - template: full-width-media-element
   block: media-1
   slug: ''
