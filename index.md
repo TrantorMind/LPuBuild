@@ -24,7 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: uBuild <br><strong>design blocks</strong>
-  content: BELLO BELLO BELLO
+  content: Si bello Ma anche NO!
   cta:
     enabled: true
     url: https://guryou.com/youdeal
