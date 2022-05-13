@@ -37,6 +37,14 @@ page_sections:
   slug: ''
   image: ''
   caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 menu:
   main:
     identifier: home
