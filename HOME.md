@@ -10,6 +10,14 @@ page_sections:
     button_text: REGISTRATI
     url: ''
   navigation: []
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: simple-footer
   block: footer-1
   content: Made with LOVE by TrantorMind
