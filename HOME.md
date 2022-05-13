@@ -7,7 +7,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
+    image: "/uploads/2022/05/13/lanciapp.png"
     alt_text: eBook scarica
   headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
