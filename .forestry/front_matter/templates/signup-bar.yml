@@ -7,6 +7,14 @@ fields:
   name: block
   default: cta-bar
   hidden: true
+- name: background_color
+  type: color
+  label: Background_color
+  config:
+    required: false
+    color_format: Hex
+  description: background color
+  default: "#252525"
 - type: textarea
   name: content
   label: Content
