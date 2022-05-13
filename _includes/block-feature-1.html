@@ -6,14 +6,14 @@
     <div class="columns">
       <div class="column text">
         <h2><span class="light">{{ section.headline }}</span></h2>
-        <div class="text">
-          <p>{{ section.content }}</p>
-        </div>
         <div class="cta">
           <form action="https://formspree.io/f/mlezalqv" method="POST">
             <input type="email" placeholder="your@email.com" class="inverted" name="_replyto">
-            <button type="submit" color= "#008CBA" class="button primary inverted">INVIA</button>
+            <button type="submit" class="button primary inverted">INVIA</button>
           </form>
+          <div class="text">
+            <p>{{ section.content }}</p>
+          </div>
         </div>
       </div>
       <div class="column media">
