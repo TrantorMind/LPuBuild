@@ -8,7 +8,7 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/2022/05/13/lancia-la-tua-app.png"
-    alt_text: eBook
+    alt_text: eBook scarica
   headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
   content: "<strong><br>Scopri come stimare il costo per sviluppare la tua App Mobile
