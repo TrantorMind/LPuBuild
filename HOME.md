@@ -13,7 +13,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2022/05/13/copia-di-lancia-la-tua-app.gif"
+    image: "/uploads/2022/05/13/copia-di-lancia-la-tua-app.png"
     alt_text: eBook
   headline: Scopri come stimare il costo per sviluppare la tua App Mobile per il Wellness.<br>
   slug: Ebook
