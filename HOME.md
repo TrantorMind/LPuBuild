@@ -18,11 +18,11 @@ page_sections:
     image: ''
     alt_text: ''
   headline: OKKK I DO
-  content: ''
+  content: LETS SEE what to do
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: www.guryou.com
+    button_text: ISCRIVITI
 - template: signup-bar
   block: cta-bar
   content: CLICK HERE

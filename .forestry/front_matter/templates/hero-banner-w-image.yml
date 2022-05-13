@@ -16,7 +16,7 @@ fields:
     required: false
     color_format: Hex
   label: Background_color
-  default: "#F5A623"
+  default: "#252525"
 - type: field_group
   name: image
   label: Image
