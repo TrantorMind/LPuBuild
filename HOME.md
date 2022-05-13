@@ -17,7 +17,7 @@ page_sections:
     alt_text: ''
   headline: Scopri come stimare il costo per sviluppare la tua App Mobile per il Wellness.<br>
   slug: Ebook
-  content: "<br><em>- iOS e Android<br>- scegli le caratteristiche principale<br>-
+  content: "<br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche principale<br>-
     Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)"
 menu:
   main:
