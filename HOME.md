@@ -10,6 +10,9 @@ page_sections:
     button_text: REGISTRATI
     url: ''
   navigation: []
+- template: simple-footer
+  block: footer-1
+  content: Made with LOVE by TrantorMind
 menu:
   main:
     identifier: home
