@@ -11,6 +11,11 @@ page_sections:
     url: ''
     background_color: "#252525"
   navigation: []
+- template: signup-bar
+  block: cta-bar
+  content: CLICK HERE
+  email_recipient: francesco@guryou.com
+  background_color: "#D71919"
 - template: hero-banner-w-image
   block: hero-2
   background_color: "#252525"
@@ -24,11 +29,6 @@ page_sections:
     enabled: true
     url: www.guryou.com
     button_text: ISCRIVITI
-- template: signup-bar
-  block: cta-bar
-  content: CLICK HERE
-  email_recipient: francesco@guryou.com
-  background_color: "#D71919"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Italy
