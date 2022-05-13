@@ -9,10 +9,9 @@ page_sections:
   media:
     image: "/uploads/2022/05/13/lancia-la-tua-app.png"
     alt_text: eBook
-  headline: '<strong><span style="text-decoration: underline;">RICHIEDI ORA L´ EBOOK
-    GRATUITAMENTE:<br></span></strong>'
+  headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
-  content: "<strong>Scopri come stimare il costo per sviluppare la tua App Mobile
+  content: "<strong><br>Scopri come stimare il costo per sviluppare la tua App Mobile
     per il Wellness.</strong><br><br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche
     principali<br>e<br>- Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)"
 menu:
