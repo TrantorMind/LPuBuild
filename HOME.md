@@ -3,19 +3,10 @@ layout: blocks
 title: GurYouDeal Home
 date: 2022-05-12T22:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
-  cta:
-    button_text: REGISTRATI
-    url: ''
-    background_color: "#252525"
-  navigation:
-  - link: ''
-    link_text: YOUDEAL
 - template: signup-bar
   block: cta-bar
-  content: "<strong>INSERICI LA TUA MAIL ---&gt;</strong>"
+  content: <strong><img src="/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png">INSERICI
+    LA TUA MAIL ---&gt;</strong>
   email_recipient: francesco@guryou.com
   background_color: "#D71919"
 - template: content-feature
