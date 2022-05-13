@@ -15,7 +15,7 @@ page_sections:
     link_text: YOUDEAL
 - template: signup-bar
   block: cta-bar
-  content: CLICK HERE
+  content: "<strong>INSERICI LA TUA MAIL ---&gt;</strong>"
   email_recipient: francesco@guryou.com
   background_color: "#D71919"
 - template: content-feature
