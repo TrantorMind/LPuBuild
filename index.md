@@ -27,8 +27,8 @@ page_sections:
   content: BELLO BELLO BELLO
   cta:
     enabled: true
-    url: https://feel.guryou.com
-    button_text: Open later
+    url: https://guryou.com/youdeal
+    button_text: Go to YouDeal
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
