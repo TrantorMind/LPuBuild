@@ -12,12 +12,12 @@ page_sections:
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
-  background_color: "#F5A623"
-  background_image: ''
+  background_color: "#252525"
+  background_image: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: OKKK I DO
   content: ''
   cta:
     enabled: false
