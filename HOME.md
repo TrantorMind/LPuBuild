@@ -24,9 +24,10 @@ page_sections:
   media:
     image: "/uploads/2020/11/29/picture1.png"
     alt_text: ''
-  headline: SCARICA l eBook GRATUITO.
+  headline: SCARICA l eBook GRATUITO.<br>
   slug: Ebook
-  content: Dai dai dai...<br><br>Made with ❤︎ in Italy
+  content: Dai dai dai...<br><br><em>- iOS e Android<br>- <br>- Stima dei costi</em><br><br>Made
+    with ❤︎ in Italy
 menu:
   main:
     identifier: home
