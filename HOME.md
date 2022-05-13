@@ -17,8 +17,8 @@ page_sections:
     alt_text: ''
   headline: Scopri come stimare il costo di sviluppare la tua Mobile app per il Wellness.<br>
   slug: Ebook
-  content: <br><em>- iOS e Android<br>- scegli le caratteristiche principale<br>-
-    Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)<br><img src="/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png">
+  content: "<br><em>- iOS e Android<br>- scegli le caratteristiche principale<br>-
+    Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)"
 menu:
   main:
     identifier: home
