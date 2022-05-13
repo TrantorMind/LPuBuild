@@ -16,22 +16,22 @@ page_sections:
   content: CLICK HERE
   email_recipient: francesco@guryou.com
   background_color: "#D71919"
-- template: full-width-media-element
-  block: media-1
-  slug: SCOPRI come stimare i costi per sviluppare e lanciare la tua app nel wellness.
-  image: "/uploads/2020/11/29/picture1.png"
-  caption: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/11/29/picture1.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Italy
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2020/11/29/picture1.png"
+    alt_text: ''
+  headline: SCARICA l eBook GRATUITO.
+  slug: Ebook
+  content: Dai dai dai...
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 menu:
   main:
     identifier: home
