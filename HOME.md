@@ -16,26 +16,10 @@ page_sections:
   content: CLICK HERE
   email_recipient: francesco@guryou.com
   background_color: "#D71919"
-- template: hero-banner-w-image
-  block: hero-2
-  background_color: "#252525"
-  background_image: ''
-  image:
-    image: "/uploads/2020/11/29/picture1.png"
-    alt_text: ''
-  headline: OKKK I DO
-  content: LETS SEE what to do
-  cta:
-    enabled: true
-    url: www.guryou.com
-    button_text: ISCRIVITI
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Italy
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: ''
+  image: "/uploads/2020/11/29/picture1.png"
   caption: ''
 - template: 2-column-media-element
   block: media-2
@@ -45,6 +29,9 @@ page_sections:
   image_2:
     image: ''
     caption: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Italy
 menu:
   main:
     identifier: home
