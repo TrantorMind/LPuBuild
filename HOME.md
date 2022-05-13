@@ -11,8 +11,8 @@ page_sections:
     url: ''
     background_color: "#252525"
   navigation:
-  - link: YOUDEAL
-    link_text: ''
+  - link: ''
+    link_text: YOUDEAL
 - template: signup-bar
   block: cta-bar
   content: CLICK HERE
