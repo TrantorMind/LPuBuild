@@ -30,8 +30,8 @@ page_sections:
   content: Dai dai dai...
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: TANTA ROBA
+  content: "<p>TANTA</p>"
 menu:
   main:
     identifier: home
