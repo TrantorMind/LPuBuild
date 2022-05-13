@@ -7,7 +7,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: ''
+    image: "/uploads/2022/05/13/lancia-la-tua-app.png"
     alt_text: eBook
   headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
