@@ -14,9 +14,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_color: "#252525"
-  background_image: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
+  background_image: ''
   image:
-    image: ''
+    image: "/uploads/2020/11/29/picture1.png"
     alt_text: ''
   headline: OKKK I DO
   content: LETS SEE what to do
