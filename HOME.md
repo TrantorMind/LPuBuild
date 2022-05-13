@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: GurYouDeal Home
-date: 2022-05-12 22:00:00 +0000
+date: 2022-05-12T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -32,6 +32,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with LOVE by TrantorMind
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 menu:
   main:
     identifier: home
