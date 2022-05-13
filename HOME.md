@@ -5,9 +5,9 @@ date: 2022-05-12T22:00:00.000+00:00
 page_sections:
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
-    image: "/uploads/2022/05/13/lancia-la-tua-app.png"
+    image: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
     alt_text: eBook scarica
   headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
