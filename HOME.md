@@ -9,11 +9,12 @@ page_sections:
   media:
     image: "/uploads/2022/05/13/lancia-la-tua-app.png"
     alt_text: eBook
-  headline: Scopri come stimare il costo per sviluppare la tua App Mobile per il Wellness.<br>
+  headline: '<strong><span style="text-decoration: underline;">RICHIEDI ORA L´ EBOOK
+    GRATUITAMENTE:<br></span></strong>'
   slug: Ebook
-  content: '<br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche principali<br>e<br>-
-    Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)<br><br><strong><span
-    style="text-decoration: underline;">RICHIEDI ORA L´ EBOOK GRATUITAMENTE:<br><br></span></strong>'
+  content: "<strong>Scopri come stimare il costo per sviluppare la tua App Mobile
+    per il Wellness.</strong><br><br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche
+    principali<br>e<br>- Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)"
 menu:
   main:
     identifier: home
