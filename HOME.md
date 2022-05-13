@@ -10,14 +10,23 @@ page_sections:
     button_text: REGISTRATI
     url: ''
   navigation: []
+- template: hero-banner-w-image
+  block: hero-2
+  background_color: "#F5A623"
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: CLICK HERE
+  email_recipient: francesco@guryou.com
 - template: simple-footer
   block: footer-1
   content: Made with LOVE by TrantorMind
