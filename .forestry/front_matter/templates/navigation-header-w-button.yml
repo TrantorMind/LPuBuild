@@ -32,3 +32,9 @@ fields:
   - type: text
     name: button_text
     label: Button Text
+  - name: background_color
+    type: color
+    label: Background_color
+    config:
+      required: false
+      color_format: Hex

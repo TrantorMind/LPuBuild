@@ -9,6 +9,7 @@ page_sections:
   cta:
     button_text: REGISTRATI
     url: ''
+    background_color: "#252525"
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
