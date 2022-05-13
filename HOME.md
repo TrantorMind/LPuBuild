@@ -19,7 +19,7 @@ page_sections:
   slug: Ebook
   content: '<br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche principali<br>e<br>-
     Calcola la stima dei costi</em><br><br>(Made with ❤︎ in Italy)<br><br><strong><span
-    style="text-decoration: underline;">RICHIEDI ORA L´ EBOOK GRATUITAMENTE:</span></strong>'
+    style="text-decoration: underline;">RICHIEDI ORA L´ EBOOK GRATUITAMENTE:<br><br></span></strong>'
 menu:
   main:
     identifier: home
