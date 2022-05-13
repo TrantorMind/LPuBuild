@@ -3,10 +3,6 @@ layout: blocks
 title: GurYouDeal Home
 date: 2022-05-12T22:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
-  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Right
