@@ -24,14 +24,7 @@ page_sections:
     alt_text: ''
   headline: SCARICA l eBook GRATUITO.
   slug: Ebook
-  content: Dai dai dai...
-- template: detail-content
-  block: text-1
-  headline: TANTA ROBA
-  content: "<p>TANTA</p>"
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Italy
+  content: Dai dai dai...<br><br>Made with ❤︎ in Italy
 menu:
   main:
     identifier: home
