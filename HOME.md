@@ -32,11 +32,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with LOVE by TrantorMind
-- template: signup-bar
-  block: cta-bar
-  background_color: "#252525"
-  content: ''
-  email_recipient: ''
 menu:
   main:
     identifier: home
