@@ -10,7 +10,9 @@ page_sections:
     button_text: REGISTRATI
     url: ''
     background_color: "#252525"
-  navigation: []
+  navigation:
+  - link: YOUDEAL
+    link_text: ''
 - template: signup-bar
   block: cta-bar
   content: CLICK HERE
