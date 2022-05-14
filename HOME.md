@@ -17,7 +17,7 @@ page_sections:
     in Italy)"
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
+  logo: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
   navigation: []
   cta:
     url: ''
