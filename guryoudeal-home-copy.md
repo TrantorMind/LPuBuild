@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: GurYouDeal Home
+title: GurYouDeal Home-(copy)
 date: 2022-05-12T22:00:00.000+00:00
 page_sections:
 - template: content-feature
@@ -15,18 +15,6 @@ page_sections:
     per il Wellness. </strong><br><br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche
     principali<br>...e...<br>- Calcola la stima dei costi</em><br><br>(Made with ❤︎
     in Italy)"
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
-  navigation: []
-  cta:
-    url: ''
-    button_text: ''
-    background_color: ''
-menu:
-  main:
-    identifier: home
-    weight: 1
-    title: Home
+published: false
 
 ---
