@@ -7,22 +7,24 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2022/05/13/lanciapp.png"
+    image: "/uploads/2022/05/14/finale-lancia-la-tua-app-4.png"
     alt_text: eBook scarica
   headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
-  content: "<strong><br>Scopri come stimare il costo per sviluppare la tua App Mobile
-    per il Wellness. </strong><br><br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche
-    principali<br>...e...<br>- Calcola la stima dei costi</em><br><br>(Made with ❤︎
-    in Italy)"
+  content: "<strong><br>SCOPRI COME STIMARE IL COSTO DI SVILUPPO della tua App Mobile
+    per i PROFESSIONISTI DEL WELLNESS. <br>Il PDF ti guida passo passo a sceglierne
+    le caratteristiche e ti svela un SITO dove calcolare il costo in maniera semplice
+    e veloce.  </strong><br><br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche
+    principali<br>...e...<br>- Calcola la stima dei costi<br>+ Bonus</em><br><br>(Made
+    with ❤︎ in Italy)"
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
   navigation: []
   cta:
-    url: ''
-    button_text: ''
-    background_color: ''
+    url: https://www.guryou.com/youdeal
+    button_text: GO
+    background_color: "#F10808"
 menu:
   main:
     identifier: home
