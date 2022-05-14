@@ -5,7 +5,7 @@ date: 2022-05-12T22:00:00.000+00:00
 page_sections:
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/2022/05/14/stima-la-tua-app.png"
     alt_text: eBook scarica
