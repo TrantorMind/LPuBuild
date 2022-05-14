@@ -20,7 +20,7 @@ page_sections:
   logo: "/uploads/2020/11/29/guryou-logo-with-new-colors-final-08.png"
   navigation: []
   cta:
-    url: www.guryou.com/youdeal
+    url: https://www.guryou.com/youdeal
     button_text: GO
     background_color: "#F10808"
 menu:
