@@ -15,6 +15,14 @@ page_sections:
     per il Wellness. </strong><br><br><em>- Stores: iOS e Android<br>- Scegli le caratteristiche
     principali<br>...e...<br>- Calcola la stima dei costi</em><br><br>(Made with ❤︎
     in Italy)"
+- template: navigation-header-w-button
+  block: header-2
+  logo: ''
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
+    background_color: ''
 menu:
   main:
     identifier: home
