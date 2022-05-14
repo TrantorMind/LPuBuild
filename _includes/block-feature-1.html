@@ -4,30 +4,26 @@
 <section id="{{ section.slug | slugify }}" class="block block-feature-1">
   <div class="container">
     <div class="columns">
+      
       <div class="column text">
         <h2><span class="light">{{ section.headline }}</span></h2>
-        <div class="cta">
-          <!-- OLD FORM
-          <form action="https://formspree.io/f/mlezalqv" method="POST">
-            <input type="email" placeholder="your@email.com" class="inverted" name="_replyto">
-            <button type="submit" class="button primary inverted">INVIA</button>
-          </form> -->
-          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-          <script>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+        <script>
               hbspt.forms.create({
 	            region: "na1",
 	            portalId: "6077992",
 	            formId: "0d3c9e43-5257-49e0-9e03-bb686b52959e"
               });
-          </script>
-          <div class="text">
-            <p>{{ section.content }}</p>
-          </div>
-        </div>
+        </script>
+        <div class="text">
+        <p>{{ section.content }}</p>
+        </div>  
       </div>
+      
       <div class="column media">
         <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="lazy">
       </div>
+    
     </div>
   </div>
 </section>
