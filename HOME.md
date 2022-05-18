@@ -7,7 +7,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/2022/05/14/stima-la-tua-app.png"
+    image: "/uploads/2022/05/18/copia-di-copia-di-lancia-la-tua-app.png"
     alt_text: eBook scarica
   headline: '<strong><span style="text-decoration: underline;">RICHIEDILO ORA:<br></span></strong>'
   slug: Ebook
